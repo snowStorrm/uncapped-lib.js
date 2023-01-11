@@ -1,3 +1,6 @@
+// Copyright (c) 2023 Ryan Zucker
+// Licensed under the MIT License
+
 let GREATER_THAN = 1;
 let GREATER_EQUAL = 2;
 let LESS_THAN = 3;
