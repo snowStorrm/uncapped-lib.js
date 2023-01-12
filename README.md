@@ -44,10 +44,10 @@ compare(OPERATOR, number-1, number-2);
 ```
 Returns true or false depending on the OPERATOR variable input.
 Accepted operators:
-- GREATER_THAN: tests if number-1 is greater than number-2.
-- GREATER_EQUAL: tests if number-1 is greater than or equal to number-2.
-- LESS_THAN: tests if number-1 is less than number-2.
-- LESS_EQUAL: tests if number-1 is less than or equal to number-2.
-- EQUAL: tests if number-1 is equal to number-2.
+- `GREATER_THAN`: tests if number-1 is greater than number-2.
+- `GREATER_EQUAL`: tests if number-1 is greater than or equal to number-2.
+- `LESS_THAN`: tests if number-1 is less than number-2.
+- `LESS_EQUAL`: tests if number-1 is less than or equal to number-2.
+- `EQUAL`: tests if number-1 is equal to number-2.
 
 
