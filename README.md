@@ -4,11 +4,13 @@ uncapped-lib.js is a JavaScript library designed to cleanly and easily push the 
 
 
 ## Quick Start
-* Step 1: Add the following to your html header:
+* Step 1: Download the library directly from the source or from the releases tab.
+* Step 2: Place uncapped-lib.js into your project folder.
+* Step 3: Add the following to your html header:
 ```
-<script src="https://raw.githubusercontent.com/snowStorrm/uncapped-lib.js/master/src/uncapped-lib.js"></script>
+<script src="[relative file path]/uncapped-lib.js"></script>
 ```
-* Step 2: That's it!
+* Step 4: That's it!
 
 
 ## Using Uncapped Numbers
